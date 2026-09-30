@@ -53,5 +53,5 @@ jobs:
         with:
           file: dockerfile
           push: true
-          tags: matheusraiano/img_projetinhos:1.0
+          tags: cabister/img_projeto:1.0
         
